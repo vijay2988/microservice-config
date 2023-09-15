@@ -1,0 +1,3 @@
+docked.msg=welcome
+docked.build.version=3
+docked.active.branch="hyderabad"
