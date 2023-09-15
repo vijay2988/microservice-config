@@ -1,0 +1,3 @@
+accounts.msg=welcome
+accounts.build.version=4
+accounts.active.branch="banglore"
