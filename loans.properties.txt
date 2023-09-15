@@ -1,0 +1,3 @@
+loans.msg=welcome
+loans.build.version=3
+loans.active.branch="vizag"
